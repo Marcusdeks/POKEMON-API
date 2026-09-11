@@ -1,0 +1,17 @@
+@import "tailwindcss";
+#app {
+  margin: 0 auto;
+  padding-left: 10px;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "RainyHearts";
+  src: url("./fonts/rainyhearts.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "RainyHearts", sans-serif;
+}
