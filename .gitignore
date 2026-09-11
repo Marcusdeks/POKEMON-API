@@ -19,3 +19,7 @@ dist-ssr/
 # Logs
 *.log
 npm-debug.log*
+
+# Backups / archives
+*.rar
+*.zip
